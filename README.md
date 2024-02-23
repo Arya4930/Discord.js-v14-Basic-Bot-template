@@ -6,3 +6,6 @@ After that just make a file where the src folder is located and name it `.env` a
 
 `BOT_TOKEN=yourTokenHere
 ClientID=YourBotIDhere`
+
+Your file structure should look like this after everything has been done
+![image](https://github.com/Arya4930/Discord.js-v14-Basic-Bot-template/assets/85472696/5968c999-97fe-4599-9e9b-66ed91f1cc8c)
